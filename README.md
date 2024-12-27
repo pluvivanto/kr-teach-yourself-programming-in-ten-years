@@ -4,7 +4,7 @@
 
 # 10년 안에 프로그래밍 독학하기 - 한국어 번역본
 
-본 저장소는 [norvig.com](https://norvig.com/21-days.html)에 게시된 **Peter Norvig**의 *"Teach Yourself Programming in Ten Years"*을 한국어로 번역한 내용입니다.
+본 저장소는 [norvig.com](https://norvig.com/21-days.html)에 게시된 **Peter Norvig**의 *"Teach Yourself Programming in Ten Years"* 을 한국어로 번역한 내용입니다.
 
 ## 번역 관련 공지
 
