@@ -1,4 +1,4 @@
-[**번역본 바로가기 | Translated Article**](#teach-yourself-programming-in-ten-years---korean-translation)
+[**번역본 바로가기 | Translated Article**](https://github.com/pluvivanto/kr-teach-yourself-programming-in-ten-years/blob/main/Teach_Yourself_Programming_In_Ten_Years.md)
 
 ---
 
